@@ -8,7 +8,14 @@
 + Portable Encrypted Safe.
 
 
-## Solution
+## Solutions
+
++ DocuTemp a solution for creating templates for everything that can be edited and stored in HTML
++ DocuTAN is an encryption engine for **DocuTemp** file
++ FinOfficer is a SaaS service that uses **DocuTAN** to conduct transactions in the company's private or on a provider's infrastructure
+
+
+## Offer
 
 [DocuTemp](https://www.docutemp.com/) is focused on Encryption/Decryption process to send the Data in any communication channels.
 
