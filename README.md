@@ -32,7 +32,39 @@ which fits well with a portable encrypted safe for documents.
 A transaction authentication number (TAN) is used by some online banking services as a form of single use one-time passwords (OTPs) to authorize financial transactions. TANs are a second layer of security above and beyond the traditional single-password authentication. 
 
 
-### Docryptor 
+
+
+
+### DocuTAN 
+
++ a portable safe  with TAN mechanism to encrypt or decrypt documents stored in one html file
+
+"Docu" suggests the document element while "TAN" implies Transaction Authentication Number, a secure mechanism often associated with encryption.
+Together, it implies a system that secures documents using a TAN mechanism which can be ideal for your product with encryption and decryption functionalities.
+It's an effective tool for a security-focused people.
+
+
+values, vision, and features of DocuTAN a portable safe with TAN mechanism to encrypt or decrypt documents stored in one html file
+
+---
+
+1. Security: Above all else, DocuTAN stands for ultimate data security. We are committed to keeping your documents safe from unauthorized access.
+2. Integrity: We value and maintain an honest and transparent relationship with our users. We continue to develop our systems to deliver on all of our promises.
+3. Innovation: At DocuTAN, we believe in leveraging cutting-edge technology, such as the TAN mechanism, to provide top-notch data protection.
+
+Vision: 
+To make secure document storage and transfer simple and accessible for all businesses, ensuring critical information is safe wherever and whenever. We aim to be recognized as a leading provider of portable encryption solutions that are both easy-to-use and highly secure.
+
+Features of DocuTAN:
+1. Portable Safe: DocuTAN acts as a portable vault for your confidential documents. Take your secure storage with you anywhere, anytime.
+2. Encryption/Decryption with TAN: Innovative TAN mechanism allows robust security by encrypting and decrypting documents, ensuring ultimate protection.
+3. Single HTML File Storage: DocuTAN lets you store your sensitive documents in one HTML file, making it easy to manage and control your data.
+4. Device Compatibility: DocuTAN can be used on any device with a browser. This ensures maximum flexibility to view and edit documents securely.
+5. User-friendly Interface: With DocuTAN, document encryption and decryption is hassle-free. It is built with a simple and intuitive interface that anyone can use without difficulty.
+
+
+---
+
 
 values, vision, and features of  Docryptor portable safe with encrypted and decyrpted Documents stored in one html file
 
@@ -49,6 +81,8 @@ Features:
 2. Encryption and Decryption: Our advanced technology enables an impeccable encryption and decryption system, allowing you to secure your documents and access them hassle-free with a password.
 3. Single HTML File Storage: Docryptor allows storage of encrypted documents into a singular HTML file, ensuring simplicity in managing and accessing your files.
 4. Device Compatibility: One of Docryptor's defining features includes compatibility across multiple devices, making security controls a fingertip away in this increasingly digital era.
+
+
 
 
 ## Another solutions:
