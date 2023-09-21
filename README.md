@@ -4,6 +4,8 @@
 ## DocuTemp
 
 + Document Template based on Multipart MIME Content Types
++ portable format to exchange many files in portable opened HTML format
++ self encryption and decryption
 + portable encrypted safe for documents
 
 ## Solutions
