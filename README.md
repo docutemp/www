@@ -3,6 +3,7 @@
 
 ## DocuTemp
 
++ Document Template based on Multipart MIME Content Types
 + portable encrypted safe for documents
 
 ## Solutions
