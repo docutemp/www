@@ -7,11 +7,11 @@
 
 ## Solutions
 
-+ [DocuTemp](https://www.docutemp.com/) a solution for creating templates for everything that can be edited and stored in HTML
++ [DocuTemp](https://www.docutemp.com/) a solution for creating templates for everything that can be edited and stored in one **HTML** file
 + [DocuTAN](https://www.docutan.com/) is an encryption engine for **DocuTemp** file
 + [FinOfficer](https://www.finofficer.com/) is a SaaS service that uses **DocuTAN** to conduct transactions in the company's private or on a provider's infrastructure
 
-
+  
 ## Offer
 
 [DocuTemp](https://www.docutemp.com/) is focused on templates,
