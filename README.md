@@ -14,12 +14,61 @@
 + [DocuTAN](https://www.docutan.com/) is an encryption engine for **DocuTemp** file
 + [FinOfficer](https://www.finofficer.com/) is a SaaS service that uses **DocuTAN** to conduct transactions in the company's private or on a provider's infrastructure
 
+
+## DOCS:
++ [docs/README.md at main · docutemp/docs](https://github.com/docutemp/docs/blob/main/README.md)
++ 
++ one time wallet: [One-time Wallet Payments](https://developers.maya.ph/docs/one-time-wallet-payments)
   
++ email frowarding [AnonAddy](https://github.com/anonaddy)
++ [SimpleLogin](https://github.com/simple-login/)
+
++ 
++ [PGP Converter](https://pgp-converter.com/decrypt)
++ [secfolio/aliceandbob: 🔐 A free, light and easy to use client-side tool to generate PGP key pairs, encrypt and decrypt messages.](https://github.com/secfolio/aliceandbob)
++ [Alice and Bob • A free, light and easy to use PGP tool](https://aliceandbob.io/)
++ [Alice and Bob • Online PGP tool](https://aliceandbob.io/online-pgp-tool)
++ 
+
++ [Specification - Kryptor](https://www.kryptor.co.uk/specification)
++ [samuel-lucas6/Kryptor: A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign.](https://github.com/samuel-lucas6/Kryptor)
++ [Key pair options | Kryptor](https://www.kryptor.co.uk/tutorial/key-pair-options)
++ [secfolio/pgp-converter: PGP Converter is a web-based tool that enables users to encrypt and decrypt text using the PGP (Pretty Good Privacy) protocol. The application is built with Node.js, SvelteKit, Vite and Tailwind CSS, and it uses the OpenPGP.js library to handle the encryption and decryption process.](https://github.com/secfolio/pgp-converter)
++ [secfolio/inline-pgp: PGP browser extension](https://github.com/secfolio/inline-pgp)
++ [secfolio/PGP-HTML-FormEncryption: PGP Test](https://github.com/secfolio/PGP-HTML-FormEncryption)
+
++ JS crypto [bitwiseshiftleft/sjcl: Stanford Javascript Crypto Library](https://github.com/bitwiseshiftleft/sjcl)
++ kompresja plików html [nika-begiashvili/libarchivejs: Archive library for browsers](https://github.com/nika-begiashvili/libarchivejs)
++ [Keybase](https://keybase.io/kbpgp/docs/key_manager)
++ [OpenPGP.js | OpenPGP JavaScript Implementation](https://openpgpjs.org/)
++ [openpgpjs/openpgpjs: OpenPGP implementation for JavaScript](https://github.com/openpgpjs/openpgpjs)
++ [How To Use GPG to Encrypt and Sign Messages | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
++ [javascript - Decrypt and use PGP file - Stack Overflow](https://stackoverflow.com/questions/26467289/decrypt-and-use-pgp-file)
++ [JavaScript: Decrypt content of GnuPG encrypted files using openpgp.js - Stack Overflow](https://stackoverflow.com/questions/33688109/javascript-decrypt-content-of-gnupg-encrypted-files-using-openpgp-js)
++ 
+
++ [Upload and share screenshots and images - print screen online | Snipboard.io](https://snipboard.io/)
++ [use-strict/7z-wasm: 7-Zip for JavaScript environments, compiled to WASM](https://github.com/use-strict/7z-wasm)
++ [okigan/e7z: Encrypting 7zip with public/private key support](https://github.com/okigan/e7z)
++ [encryption - How does public/private key cryptography work, who generates the key pair? - Super User](https://superuser.com/questions/1078847/how-does-public-private-key-cryptography-work-who-generates-the-key-pair)
++ [secfolio/openpgpjs: OpenPGP implementation for JavaScript](https://github.com/secfolio/openpgpjs)
++ [openpgpjs/README.md at main · openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs/blob/main/README.md#getting-started)
++ [encryption - PGP key pair - How to set up for multiple users to decrypt messages with Kleopatra - Information Security Stack Exchange](https://security.stackexchange.com/questions/270272/pgp-key-pair-how-to-set-up-for-multiple-users-to-decrypt-messages-with-kleopat)
++ [mpds-io/7zip.html: Browse 7z archives online in the web-browsers](https://github.com/mpds-io/7zip.html)
++ [Archive data](https://unzip.mpds.io/)
++ [jalcaldea/7z-stream: 7z-stream is a streaming 7z parser.](https://github.com/jalcaldea/7z-stream)
++ 
+
+
+
+
 ## Offer
 
-[DocuTemp](https://www.docutemp.com/) is focused on templates,
-[DocuTAN.com](http://www.docutan.com) on Encryption/Decryption process to send the Data in any communication channels.
-
++ [DocuTemp](https://www.docutemp.com/) is focused on templates,
++ [DocuTAN.com](http://www.docutan.com) on Encryption/Decryption process to send the Data in any communication channels.
++ [FinOfficer.com](http://www.FinOfficer.com) - bezpieczne zbieranie, przechowywanie i wymiana dokumentów z księgowością i prawnikiem 
++ [Lockerless.com](http://www.Lockerless.com) - jednorazowy sejf i szyfrowana transmisja
++ [DocuTan.com](http://www.DocuTan.com) - klucze prywatne do bezpiecznych transakcji
 
 The file is in muiltipart HTML format, so it's fully portable encrypted container/safe to sensetive data, even on local PC/ Smartphone it will be not possible to see the content, without password.
 
